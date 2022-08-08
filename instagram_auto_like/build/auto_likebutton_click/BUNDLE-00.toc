@@ -1,0 +1,3 @@
+([('auto_likebutton_click',
+   '/Users/bagdaehui/Desktop/acmelab/auto_likebutton_click/dist/auto_likebutton_click',
+   'EXECUTABLE')],)
